@@ -1,19 +1,19 @@
 {
-    "version": "0.7.4-alpha.4",
+    "version": "0.7.4-alpha.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.7.4-alpha.4/guardian_0.7.4-alpha.4_windows_i386.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.7.4-alpha.5/guardian_0.7.4-alpha.5_windows_i386.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "f513d80d5a13a25b3b5203f77cecf16d3c1d9afd2198433f971c563f7976c705"
+            "hash": "133092212040426ffaaaa00b8779502fe02a4d10d318529d2f21dddb8db8cab1"
         },
         "64bit": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.7.4-alpha.4/guardian_0.7.4-alpha.4_windows_x86_64.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.7.4-alpha.5/guardian_0.7.4-alpha.5_windows_x86_64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "595bd8ccd6e375f4cbb04281d50b13bfe54cdc2341fc36dda1479e0ceb713a25"
+            "hash": "9a645891a0f31014033231773c2589d38b522d6a49f40d20fbe2a9430e07a4e2"
         }
     },
     "homepage": "https://github.com/goto/guardian",
