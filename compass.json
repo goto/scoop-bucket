@@ -1,26 +1,26 @@
 {
-    "version": "0.6.5",
+    "version": "0.7.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goto/compass/releases/download/v0.6.5/compass_Windows_i386.zip",
+            "url": "https://github.com/goto/compass/releases/download/v0.7.0/compass_Windows_i386.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "0c69950783b6cb8215a9467b5ad52907088152069ee2e870e417957f4ec1582e"
+            "hash": "dfbcb8599640895f885b45d8082cf932150d6f681c03b435dd64fc618ba26f40"
         },
         "64bit": {
-            "url": "https://github.com/goto/compass/releases/download/v0.6.5/compass_Windows_x86_64.zip",
+            "url": "https://github.com/goto/compass/releases/download/v0.7.0/compass_Windows_x86_64.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "2cbd4486b848192f3cec6cb2f229b50b164b48f608e7e0af2372c37826959fb3"
+            "hash": "b65b3b8216e99b62aa76f7c941f0a1d34579a91ebc0a07c58bac350dab4fe0c9"
         },
         "arm64": {
-            "url": "https://github.com/goto/compass/releases/download/v0.6.5/compass_Windows_arm64.zip",
+            "url": "https://github.com/goto/compass/releases/download/v0.7.0/compass_Windows_arm64.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "918f18c62545ff6399d7d97c06851825e1ad85d24deb95237a0bc48598580796"
+            "hash": "a81f7135139104ef76a397fe5ec69c0717df0618ab411501682ec1e8ea142383"
         }
     },
     "homepage": "https://github.com/goto/compass",
