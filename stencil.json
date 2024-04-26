@@ -6,14 +6,14 @@
             "bin": [
                 "stencil.exe"
             ],
-            "hash": "16a28926d2a57d8625f029c46ceb3b854295efeb2903ed9b78a5d4cb038b7965"
+            "hash": "1da797528c1f71474a3b7c2b869fa0c97156f887022edabd5b0443854f6463df"
         },
         "64bit": {
             "url": "https://github.com/goto/stencil/releases/download/v0.7.2-alpha/stencil_Windows_x86_64'.zip",
             "bin": [
                 "stencil.exe"
             ],
-            "hash": "45e4defbb15f63e1650d097f7d3022974a11a378e47ad6146606a8366c6700c8"
+            "hash": "8fa173d7be8567043c18c12167ac19e8a8c924072fdc48937ff5a165106623c7"
         }
     },
     "homepage": "https://github.com/goto/stencil",
