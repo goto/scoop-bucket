@@ -6,14 +6,14 @@
             "bin": [
                 "shield.exe"
             ],
-            "hash": "4b9e4991d7c90bbd31f4821b2e38ed540802be175f330813983d8da5bdc38f6c"
+            "hash": "2c34fdb3f09a4a0f3d91744fdc6690d87583102670ecba43fda3aecd243dc24e"
         },
         "arm64": {
             "url": "https://github.com/goto/shield/releases/download/v0.6.25/shield_Windows_arm64.tar.gz",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "dac8e545083bee3e01c7ec774c65a030a4e628af30c93656c2fa2b44adf54e78"
+            "hash": "c80e0ec01ff1debe15db5e7765ecfb7f8eba9fede99df4a99b6939a206d0ae50"
         }
     },
     "homepage": "https://github.com/goto/shield",
