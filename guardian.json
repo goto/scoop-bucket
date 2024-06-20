@@ -6,21 +6,21 @@
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "887324b4f6c219afd34d7cd2d7edecc433f9ab5e7a81567babf9663b13cdd6a4"
+            "hash": "8c1de1f96b8c34f5bf60d6ca119ff6d47ff2afb3e61592ae796178b0034e1807"
         },
         "64bit": {
             "url": "https://github.com/goto/guardian/releases/download/v0.11.2-beta.2/guardian_0.11.2-beta.2_Windows_x86_64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "b84f743801030f8bc8d349cd1af7ac20b328c0c2d6621247ed00fafd97250822"
+            "hash": "e87522ea6515b7759e0c66fb79460ceb6c813f5410f952d55332b6a9f87f35aa"
         },
         "arm64": {
             "url": "https://github.com/goto/guardian/releases/download/v0.11.2-beta.2/guardian_0.11.2-beta.2_Windows_arm64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "37b5c2fcf1d3d2f72a6a44776ba6023580e666b6a6f6c4c0a7d3f58c6f40b536"
+            "hash": "d841e7d34d7c6df141d69f4dc620cd67d0a35c4d3ea9d76414df5c4eefcbaced"
         }
     },
     "homepage": "https://github.com/goto/guardian",
