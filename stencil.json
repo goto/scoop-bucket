@@ -1,19 +1,19 @@
 {
-    "version": "0.8.3",
+    "version": "0.8.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goto/stencil/releases/download/v0.8.3/stencil_Windows_i386'.zip",
+            "url": "https://github.com/goto/stencil/releases/download/v0.8.4/stencil_Windows_i386'.zip",
             "bin": [
                 "stencil.exe"
             ],
-            "hash": "ade74d0a739d71e6169a3715221b63ea6f99c1ce278c6dadd08308c550758b7e"
+            "hash": "bf9f39e96a15c49d1151a1b38a9e71dc9d05d8a3683f230bb25348205a28a20c"
         },
         "64bit": {
-            "url": "https://github.com/goto/stencil/releases/download/v0.8.3/stencil_Windows_x86_64'.zip",
+            "url": "https://github.com/goto/stencil/releases/download/v0.8.4/stencil_Windows_x86_64'.zip",
             "bin": [
                 "stencil.exe"
             ],
-            "hash": "be7ee5c3e11c79e09fa22a10e9c76f2397f11976c04376aaa18244ecbf621c00"
+            "hash": "91d6673226bf59d18670ecb4ce92367d67e3bb7bb847f671c76cf3b08286474f"
         }
     },
     "homepage": "https://github.com/goto/stencil",
