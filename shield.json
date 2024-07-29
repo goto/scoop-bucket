@@ -1,19 +1,19 @@
 {
-    "version": "0.6.30",
+    "version": "0.6.31",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/goto/shield/releases/download/v0.6.30/shield_Windows_x86_64.tar.gz",
+            "url": "https://github.com/goto/shield/releases/download/v0.6.31/shield_Windows_x86_64.tar.gz",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "b93cde2201f4653fb198ade278546f81c25926b0e92e9e366519e66da5282872"
+            "hash": "d26624e2853bfd050590aa4714cde834fd48944639768450fc33ed5936a24f64"
         },
         "arm64": {
-            "url": "https://github.com/goto/shield/releases/download/v0.6.30/shield_Windows_arm64.tar.gz",
+            "url": "https://github.com/goto/shield/releases/download/v0.6.31/shield_Windows_arm64.tar.gz",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "1e4a4d253eeb56ffa5672a0c51237c0f59a5d0c2a004189b06ccf5acc46b70e7"
+            "hash": "709d69680877282d76386483a5a6553248a31454fc7df6991fb8ee9c1659616d"
         }
     },
     "homepage": "https://github.com/goto/shield",
