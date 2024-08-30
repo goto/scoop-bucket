@@ -1,26 +1,26 @@
 {
-    "version": "0.12.2-beta.5",
+    "version": "0.12.2-alpha.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.12.2-beta.5/guardian_0.12.2-beta.5_Windows_i386.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.12.2-alpha.5/guardian_0.12.2-alpha.5_Windows_i386.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "70a974b3a6974a0e3947ba96e5bc018d8d1ae538cbd9bf9986ba134663eca664"
+            "hash": "dc20038b97c98fc63f9443310906105ee30f72801b8c72a09942b6bc7e9900e0"
         },
         "64bit": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.12.2-beta.5/guardian_0.12.2-beta.5_Windows_x86_64.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.12.2-alpha.5/guardian_0.12.2-alpha.5_Windows_x86_64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "171ed99a9cdffeeab72017eaf1ed92cfe28bb4526f514196d71e505e1d834f06"
+            "hash": "7e30e59387025e9c93d2ce33f7218288f1c8bd66a0afb29116d375b028524637"
         },
         "arm64": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.12.2-beta.5/guardian_0.12.2-beta.5_Windows_arm64.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.12.2-alpha.5/guardian_0.12.2-alpha.5_Windows_arm64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "91f02700504d6d15c85becbbc1767d04541975eb7cb8096f478a5ab8247458a6"
+            "hash": "7201b2d90dfa6bef70c02f79d54a6e58210e378e7dd934c475e77779caa011e2"
         }
     },
     "homepage": "https://github.com/goto/guardian",
