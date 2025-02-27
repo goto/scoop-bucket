@@ -6,21 +6,21 @@
             "bin": [
                 "compass.exe"
             ],
-            "hash": "1fab03bc5a4217c277e99515bf9cdabfde8a80049609a2f04f48addbb788d274"
+            "hash": "e7f4adc4ab107bc736dae79d212356826cfa83d66210853ff806893e495e502a"
         },
         "64bit": {
             "url": "https://github.com/goto/compass/releases/download/v0.8.1/compass_Windows_x86_64.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "10d371bfabb98fc4c2de279580c501ddad5c690b54d4fd145d304c35e1bb2bd5"
+            "hash": "c66763d997b9299842029b4740236e5a46c7fdd566b8b228dc3b36c449462b40"
         },
         "arm64": {
             "url": "https://github.com/goto/compass/releases/download/v0.8.1/compass_Windows_arm64.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "a9c581345c98573286e85be4227a67a5bac71318ae044a17ee106341dd511d15"
+            "hash": "4eb2a75492a216e112b8287b4501b77e02fc18daacb629cacd2d6162b4ed2bb0"
         }
     },
     "homepage": "https://github.com/goto/compass",
