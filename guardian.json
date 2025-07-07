@@ -1,26 +1,26 @@
 {
-    "version": "0.12.14",
+    "version": "0.12.15-alpha.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.12.14/guardian_0.12.14_Windows_i386.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.12.15-alpha.1/guardian_0.12.15-alpha.1_Windows_i386.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "7c0892a3e20132a71129e301f381dfcc4dec312a90a76d491076f60a11d371a9"
+            "hash": "22452794a7b851a497d0bff15ca5a74cd7897a6ed15b83c284af8fd1ab6a87f5"
         },
         "64bit": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.12.14/guardian_0.12.14_Windows_x86_64.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.12.15-alpha.1/guardian_0.12.15-alpha.1_Windows_x86_64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "a406cdd21916f122dd22717145fc2648a2796eec7988a4a9214ef9e9b01ce6bb"
+            "hash": "e223d844f7df443a73ee18b6eabd6c27c926301e4c048a42f2a8a7bd6876bcb2"
         },
         "arm64": {
-            "url": "https://github.com/goto/guardian/releases/download/v0.12.14/guardian_0.12.14_Windows_arm64.zip",
+            "url": "https://github.com/goto/guardian/releases/download/v0.12.15-alpha.1/guardian_0.12.15-alpha.1_Windows_arm64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "c5d4244960043ea89fbee40178915b96cd9ab917ffb0700067c2eeba568d68f1"
+            "hash": "c6026507a938e7039c80cdb3bafb45e9e1b0d57e5a6390d212722aabe294b6d3"
         }
     },
     "homepage": "https://github.com/goto/guardian",
